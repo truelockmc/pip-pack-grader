@@ -21,8 +21,8 @@ A simple Python script that checks for outdated packages and automatically updat
 Clone this repository or download the script.
 
 ```bash
-git clone https://github.com/your-username/python-package-updater.git
-cd python-package-updater
+git clone https://github.com/truelockmc/pip-pack-grader.git
+cd pip-pack-grader
 ```
 
 Ensure you have Python installed and available in your system path.
